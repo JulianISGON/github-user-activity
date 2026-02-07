@@ -115,9 +115,7 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para má
 
 **Julian Isaza**  
 - GitHub: [julianisaza](https://github.com/julianisaza)  
-- Email: (opcional, agrega si deseas)
-
+- Email: julian.isaza1020@gmail.com
+- URL: https://github.com/JulianISGON/github-user-activity
 ---
 
-¡Disfruta explorando la actividad de GitHub con esta aplicación!</content>
-<parameter name="filePath">C:\Users\julia\OneDrive\Desktop\julian\Repositorios\GitHub User Activity\README.md
